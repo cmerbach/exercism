@@ -37,4 +37,5 @@ exercism download --track=go --exercise=party-robot
 exercism download --track=go --exercise=vehicle-purchase
 exercism download --track=go --exercise=blackjack
 exercism download --track=go --exercise=need-for-speed
+exercism download --track=go --exercise=card-tricks
 ```
