@@ -38,4 +38,8 @@ exercism download --track=go --exercise=vehicle-purchase
 exercism download --track=go --exercise=blackjack
 exercism download --track=go --exercise=need-for-speed
 exercism download --track=go --exercise=card-tricks
+exercism download --track=go --exercise=bird-watcher
+exercism download --track=go --exercise=lasagna-master
+exercism download --track=go --exercise=booking-up-for-beauty
+exercism download --track=go --exercise=gross-store
 ```
