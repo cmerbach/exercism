@@ -21,7 +21,7 @@ exercism submit hello_world.go
 
 ## Current Status and Progress
 
-<a href="pic/progress.png"><img src="pic/progress.png" height="300" alt="Current progress after 10 exercises"></a>
+<a href="pic/progress.png"><img src="pic/progress.png?" height="300" alt="Current progress after 10 exercises"></a>
 
 
 ## List of exercises/tracks
