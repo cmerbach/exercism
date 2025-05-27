@@ -42,4 +42,9 @@ exercism download --track=go --exercise=bird-watcher
 exercism download --track=go --exercise=lasagna-master
 exercism download --track=go --exercise=booking-up-for-beauty
 exercism download --track=go --exercise=gross-store
+exercism download --track=go --exercise=chessboard
+exercism download --track=go --exercise=logs-logs-logs
+exercism download --track=go --exercise=election-day
+exercism download --track=go --exercise=jedliks-toys
+exercism download --track=go --exercise=airport-robot
 ```
