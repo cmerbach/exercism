@@ -47,4 +47,5 @@ exercism download --track=go --exercise=logs-logs-logs
 exercism download --track=go --exercise=election-day
 exercism download --track=go --exercise=jedliks-toys
 exercism download --track=go --exercise=airport-robot
+exercism download --track=go --exercise=sorting-room
 ```
