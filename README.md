@@ -52,4 +52,5 @@ exercism download --track=go --exercise=the-farm
 exercism download --track=go --exercise=census
 exercism download --track=go --exercise=interest-is-interesting
 exercism download --track=go --exercise=expenses
+exercism download --track=go --exercise=animal-magic
 ```
