@@ -53,4 +53,5 @@ exercism download --track=go --exercise=census
 exercism download --track=go --exercise=interest-is-interesting
 exercism download --track=go --exercise=expenses
 exercism download --track=go --exercise=animal-magic
+exercism download --track=go --exercise=parsing-log-files
 ```
