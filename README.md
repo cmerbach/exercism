@@ -56,4 +56,5 @@ exercism download --track=go --exercise=animal-magic
 exercism download --track=go --exercise=parsing-log-files
 exercism download --track=go --exercise=meteorology
 exercism download --track=go --exercise=two-fer
+exercism download --track=go --exercise=raindrops
 ```
