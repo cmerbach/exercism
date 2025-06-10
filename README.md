@@ -61,4 +61,5 @@ exercism download --track=go --exercise=collatz-conjecture
 exercism download --track=go --exercise=gigasecond
 exercism download --track=go --exercise=hamming
 exercism download --track=go --exercise=scrabble-score
+exercism download --track=go --exercise=leap
 ```
