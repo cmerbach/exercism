@@ -63,4 +63,5 @@ exercism download --track=go --exercise=hamming
 exercism download --track=go --exercise=scrabble-score
 exercism download --track=go --exercise=leap
 exercism download --track=go --exercise=isogram
+exercism download --track=go --exercise=difference-of-squares
 ```
