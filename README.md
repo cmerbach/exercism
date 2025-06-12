@@ -68,4 +68,5 @@ exercism download --track=go --exercise=luhn
 exercism download --track=go --exercise=resistor-color
 exercism download --track=go --exercise=space-age
 exercism download --track=go --exercise=nucleotide-count
+exercism download --track=go --exercise=rna-transcription
 ```
