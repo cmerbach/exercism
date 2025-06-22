@@ -70,4 +70,5 @@ exercism download --track=go --exercise=space-age
 exercism download --track=go --exercise=nucleotide-count
 exercism download --track=go --exercise=rna-transcription
 exercism download --track=go --exercise=strain
+exercism download --track=go --exercise=pangram
 ```
