@@ -72,4 +72,5 @@ exercism download --track=go --exercise=rna-transcription
 exercism download --track=go --exercise=strain
 exercism download --track=go --exercise=pangram
 exercism download --track=go --exercise=reverse-string
+exercism download --track=go --exercise=darts
 ```
