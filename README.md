@@ -77,4 +77,5 @@ exercism download --track=go --exercise=dnd-character
 exercism download --track=go --exercise=etl
 exercism download --track=go --exercise=bob
 exercism download --track=go --exercise=grains
+exercism download --track=go --exercise=roman-numerals
 ```
