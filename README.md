@@ -75,4 +75,5 @@ exercism download --track=go --exercise=reverse-string
 exercism download --track=go --exercise=darts
 exercism download --track=go --exercise=dnd-character
 exercism download --track=go --exercise=etl
+exercism download --track=go --exercise=bob
 ```
